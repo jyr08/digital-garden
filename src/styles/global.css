@@ -1,11 +1,23 @@
+
+
+
+
 body {
-    background: lightblue;
+    text-align: center;
+    background: rgb(234, 227, 215);
 }
 
 h1 {
-    color: darkmagenta;
+    
+    color: lightblue;
 }
 
 li {
+    text-align: left;
+    /* font-family: 'Gambarino', serif; */
     color: white;
+}   
+
+Navigation {
+    text-align: left;
 }
